@@ -12,9 +12,9 @@ Ce dépôt contient mes solutions aux problèmes de la roadmap [NeetCode](https:
 
 ## Structure du dépôt
 
-- `src/theme/main/niveaux/` → Code source des solutions
-- `src/theme/test/niveaux/` → Tests unitaires associés
-- `src/theme/solution/niveaux/` → Explications des solutions (format Markdown)
+- `src/theme/main/niveau/` → Code source des solutions
+- `src/theme/test/niveau/` → Tests unitaires associés
+- `src/theme/solution/niveau/` → Explications des solutions (format Markdown)
 - Problèmes classés par **difficulté** (`Easy`, `Medium`, `Hard`) et **thématique**
 
 ### Exemple :
