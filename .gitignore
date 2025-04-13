@@ -1,0 +1,10 @@
+# Class files
+*.class
+
+# IDE
+.idea/
+*.iml
+
+# Build
+target/
+bin/
