@@ -1,10 +1,52 @@
-# Class files
+# === JAVA & MAVEN ===
+
+# Compiled class files
 *.class
 
-# IDE
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# === IntelliJ IDEA ===
 .idea/
 *.iml
+*.iws
+out/
 
-# Build
-target/
+# === VS Code ===
+.vscode/
+
+# === Eclipse ===
+.project
+.classpath
+.settings/
 bin/
+
+# === macOS ===
+.DS_Store
+
+# === OS Linux / Windows ===
+*.swp
+*~
+Thumbs.db
+desktop.ini
+
+# === Test reports ===
+*.txt
+*.xml
+
+# === JetBrains test coverage ===
+*.coverage
+*.coveragedata
+*.em
+*.ec
+
+# === Backup files ===
+*.bak
+*.tmp
+*.old
+
+# === Environment ===
+.env
